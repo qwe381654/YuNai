@@ -25,6 +25,5 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-cd xiang-note.github.io
 
 Today is 0429
